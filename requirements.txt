@@ -5,5 +5,4 @@ seaborn
 scikit-learn
 xgboost
 streamlit
-pickle
 babel
